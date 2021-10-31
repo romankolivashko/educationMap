@@ -42,6 +42,23 @@ let drawMap = () => {
           let percentage = county['bachelorsOrHigher']
           return percentage
         })
+        .on('mouseover', (countyDataItem)=> {
+            tooltip.transition()
+                .style('visibility', 'visible')
+
+              let id = countyDataItem['id']
+              let county = educationData.find((item) =>{
+                  return item['fips'] === id
+              })
+              tooltip.text(county['fips'] + ' - ' + county['area_name'] + ', ' + 
+              county['state'] + ' : ' + county['bachelorsOrHigher'] + '%')
+
+              tooltip.attr('data-education', county['bachelorsOrHigher'] )
+              })
+              .on('mouseout', (countyDataItem) => {
+                  tooltip.transition()
+                      .style('visibility', 'hidden')
+              })
   }
 
 d3.json(countyURL).then(
