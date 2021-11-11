@@ -24,3 +24,13 @@ Working web browser
 
 ### Web-hosted <a name = "hosted"></a>
 [Link](https://zealous-jones-c5db9a.netlify.app/)
+
+## Known Bugs
+
+* [Issues](https://github.com/romankolivashko/educationMap/issues)
+
+## License
+MIT
+
+## Contact Information
+rkolivashko@gmail.com
