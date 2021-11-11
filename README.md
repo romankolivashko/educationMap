@@ -3,8 +3,8 @@
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
++ [Usage](#quick_look)
++ [Contributing](#hosted)
 
 ## About <a name = "about"></a>
 This project is intended to provide an insight into US education level across the US by county.
@@ -17,4 +17,8 @@ This project is intended to provide an insight into US education level across th
 ### Prerequisites
 
 Working web browser
+
+### Quick look <a name = "quick_look"></a>
+
+### Web-hosted <a name = "hosted"></a>
 
