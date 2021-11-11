@@ -18,10 +18,12 @@ This project is intended to provide an insight into US education level across th
 * Webpack
 
 ## Getting Started <a name = "getting_started"></a>
+Use a command line/Bash to move to the project directory with cd project-directory-here
+
 1. Clone the repository: $ `git clone https://github.com/romankolivashko/educationMap.git`
 2. Navigate to the educationMap/ directory on your computer
-3. Open with your preferred text editor to view the code base
-4. Launch index.html to view the project in the web browser locally
+3. Run `npm install` in command line/Bash to get all dependencies.
+4. Run `npm run start` in command line/Bash to start up the program in your browser.
 
 ### Quick look <a name = "quick_look"></a>
 ![](educationMap.gif)
