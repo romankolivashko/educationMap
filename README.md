@@ -10,9 +10,10 @@
 This project is intended to provide an insight into US education level across the US by county.
 
 ## Getting Started <a name = "getting_started"></a>
-1. Clone the repository: $ git clone https://github.com/account/my-project
-4. Navigate to the my-project/ directory on your computer
-5. Open with your preferred text editor to view the code base
+1. Clone the repository: $ `git clone https://github.com/romankolivashko/educationMap.git`
+2. Navigate to the my-project/ directory on your computer
+3. Open with your preferred text editor to view the code base
+4. Launch index.html to view the project in the web browser locally
 
 ### Prerequisites
 
