@@ -32,7 +32,7 @@ let drawMap = () => {
             }
         })
         .attr('data-fips', (countyDataItem) => {
-            return countyDataItem['id']
+            return countyDataItemgit 
         })
         .attr('data-education', (countyDataItem) => {
           let id = countyDataItem['id']

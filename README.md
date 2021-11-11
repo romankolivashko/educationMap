@@ -20,6 +20,7 @@ This project is intended to provide an insight into US education level across th
 Working web browser
 
 ### Quick look <a name = "quick_look"></a>
+![](educationMap.gif)
 
 ### Web-hosted <a name = "hosted"></a>
 [Link](https://zealous-jones-c5db9a.netlify.app/)
