@@ -22,4 +22,4 @@ Working web browser
 ### Quick look <a name = "quick_look"></a>
 
 ### Web-hosted <a name = "hosted"></a>
-
+[Link](https://zealous-jones-c5db9a.netlify.app/)
