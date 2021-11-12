@@ -1,10 +1,16 @@
 # US Education Level Map
 <html>
 <!-- Project Shields -->
+<!-- Project Shields -->
     <p align="center">
         <a href="https://github.com/romankolivashko/educationMap">
             <img src="https://img.shields.io/github/repo-size/romankolivashko/educationMap?style=plastic">
         </a>
+		¨
+        <a href="https://github.com/romankolivashko/educationMap/commits/main">
+            <img src="https://img.shields.io/github/last-commit/romankolivashko/educationMap?color=yellow&style=plastic">
+        </a>
+		
         ¨
         <a href="https://github.com/romankolivashko/educationMap/stargazers">
             <img src="https://img.shields.io/github/stars/romankolivashko/educationMap?color=yellow&style=plastic">
