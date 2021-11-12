@@ -7,7 +7,7 @@
         </a>
         ¨
         <a href="https://github.com/romankolivashko/educationMap/stargazers">
-            <img src="https://img.shields.io/github/repo-size/romankolivashko/educationMap?color=yellow&style=plastic">
+            <img src="https://img.shields.io/github/stargazers/romankolivashko/educationMap?color=yellow&style=plastic">
         </a>
         ¨
         <a href="https://github.com/romankolivashko/educationMap/issues">
