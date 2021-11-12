@@ -1,5 +1,24 @@
 # US Education Level Map
 
+<!-- Project Shields -->
+    <p align="center">
+        <a href="https://github.com/romankolivashko/educationMap">
+            <img src="https://img.shields.io/github/repo-size/romankolivashko/educationMap?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/romankolivashko/educationMap/stargazers">
+            <img src="https://img.shields.io/github/repo-size/romankolivashko/educationMap?color=yellow&style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/romankolivashko/educationMap/issues">
+           <img src="https://img.shields.io/github/issues/romankolivashko/educationMap?color=yellow&style=plastic">
+        </a>
+        ¨
+        <a href="https://linkedin.com/in/rkolivashko">
+            <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
+        </a>
+    </p> 
+
 ## Table of Contents
 + [About](#about)
 + [Prerequisites](#prerequisites)
