@@ -24,7 +24,7 @@
     </p> 
 </html>
 
-\
+
 ### Quick look <a name = "quick_look"></a>
 ![](educationMap.gif)
 
