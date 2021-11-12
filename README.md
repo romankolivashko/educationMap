@@ -24,6 +24,10 @@
     </p> 
 </html>
 
+\
+### Quick look <a name = "quick_look"></a>
+![](educationMap.gif)
+
 ## Table of Contents
 + [About](#about)
 + [Prerequisites](#prerequisites)
@@ -49,8 +53,6 @@ Use a command line/Bash to move to the project directory with cd project-directo
 3. Run `npm install` in command line/Bash to get all dependencies.
 4. Run `npm run start` in command line/Bash to start up the program in your browser.
 
-### Quick look <a name = "quick_look"></a>
-![](educationMap.gif)
 
 ### Hosted online <a name = "hosted"></a>
 [Link](https://zealous-jones-c5db9a.netlify.app/)
