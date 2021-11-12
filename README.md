@@ -1,5 +1,5 @@
 # US Education Level Map
-
+<html>
 <!-- Project Shields -->
     <p align="center">
         <a href="https://github.com/romankolivashko/educationMap">
@@ -18,6 +18,7 @@
             <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
         </a>
     </p> 
+</html>
 
 ## Table of Contents
 + [About](#about)
